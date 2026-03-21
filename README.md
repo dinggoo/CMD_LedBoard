@@ -56,6 +56,10 @@ The `jweb` object sends messages to `pose.js` via bound inlets:
 - Internet connection (MediaPipe model and libraries are loaded from CDN)
 - A webcam
 
+## Author
+
+Developed by **Mark Meeuwenoord** for the [CMD Breda](https://www.cmd-breda.nl) (Communication & Multimedia Design, Avans University of Applied Sciences) open dagen — interactive events where prospective students can experience what CMD has to offer. This project drives a real-time LED board installation that reacts to visitors' body movements.
+
 ## Credits
 
 - Original MediaPipe jweb integration: [robtherich/jweb-mediapipe](https://github.com/robtherich/jweb-mediapipe)
