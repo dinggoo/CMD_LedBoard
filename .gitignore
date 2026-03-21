@@ -3,3 +3,6 @@
 
 # Max/MSP
 *.maxpreferences
+
+# Large asset folders (use .zip in repo, unzip locally)
+emo/
