@@ -659,8 +659,8 @@
 				<reverse_ratio type="bool">0</reverse_ratio>
 				<Syphon_Pipe type="stringoption">Max-&gt;Max</Syphon_Pipe>
 			</parameters>
-			<transformation type="matrix4x4">0.619911,        0,        0,        0
-       0, 0.333982,        0,        0
+			<transformation type="matrix4x4">0.612769,        0,        0,        0
+       0, 0.330085,        0,        0
        0,        0,        1,        0
 0.0254405,  1.02524,        0,        1</transformation>
 		</content>
@@ -899,26 +899,6 @@
 		<device>
 			<MAC>DMX:0</MAC>
 			<conf>{"Actual IP Address":"10.206.230.197","first universe":0,"universe_mode":"raw","universes_per_outlet":1}
-</conf>
-		</device>
-		<device>
-			<MAC>d0:76:50:a1:4a:91</MAC>
-			<conf>{"first universe":4,"universe_mode":"raw","universes_per_outlet":1}
-</conf>
-		</device>
-		<device>
-			<MAC>d0:76:50:a1:4a:92</MAC>
-			<conf>{"first universe":12,"universe_mode":"raw","universes_per_outlet":1}
-</conf>
-		</device>
-		<device>
-			<MAC>d0:76:50:a1:4a:93</MAC>
-			<conf>{"first universe":8,"universe_mode":"raw","universes_per_outlet":1}
-</conf>
-		</device>
-		<device>
-			<MAC>d0:76:50:a1:4a:97</MAC>
-			<conf>{"first universe":0,"universe_mode":"raw","universes_per_outlet":1}
 </conf>
 		</device>
 	</devices>
